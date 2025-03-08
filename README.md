@@ -23,19 +23,5 @@ i`m going to work with an e-commerce company that deals with clothing and wants 
 7. Visualizing model accuracy and loss.
 8. Adjusting, testing, and evaluating the model.
 
-## Objectives
 
-## Instructions to Run
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Batista94/clothing_image_classification.git
-
-2. Install the dependencies:
-   ```ssh
-   pip install tensorflow keras numpy matplotlib
-
-3. run the main script
-   ```ssh
-   python main.py
 
